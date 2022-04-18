@@ -1,0 +1,30 @@
+
+.container{
+    margin-top: 15px;
+}
+
+label{
+    margin-left: 15px;
+}
+
+.form-group{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+body > div.container > div > button{
+    margin-left: 15px;
+}
+#todos{
+    width: 87%;
+    margin: auto;
+}
+
+#todos > h2{
+    margin-left: 15px;
+}
+#addForm > div > input.btn.btn-primary{
+    margin-top: 15px;
+}
+#addForm > input.btn.btn-primary{
+    margin-top: 15px;
+}
